@@ -9,7 +9,7 @@ html {
 body {
     text-align: center;
     margin: 0 50px;  
-    background-image: url("/lady-justice.jpg");
+    background-image: url("lady-justice.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
